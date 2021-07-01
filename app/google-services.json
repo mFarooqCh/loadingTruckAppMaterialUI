@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "584309223325",
+    "project_id": "truckloadingapp",
+    "storage_bucket": "truckloadingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584309223325:android:955820019633fa404cc974",
+        "android_client_info": {
+          "package_name": "com.example.truckapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584309223325-g47eg4pmv3ie4l6omis7cn8o0692cv61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcw_MzEIH3iDgaVtZ104Xi1ZrFJED0Pz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584309223325-g47eg4pmv3ie4l6omis7cn8o0692cv61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584309223325:android:4a9de5d425cf61af4cc974",
+        "android_client_info": {
+          "package_name": "com.example.truckloadingone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584309223325-g47eg4pmv3ie4l6omis7cn8o0692cv61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcw_MzEIH3iDgaVtZ104Xi1ZrFJED0Pz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584309223325-g47eg4pmv3ie4l6omis7cn8o0692cv61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
